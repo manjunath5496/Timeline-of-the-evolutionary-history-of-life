@@ -1,5 +1,10 @@
 <h2>Timeline of the evolutionary history of life </h2>
 <h3><span id="Hadean_Eon" class="mw-headline">Hadean Eon</span></h3>
+<ul>
+<li>In this timeline,&nbsp;<strong><a class="mw-redirect" title="Ma (unit)" href="https://en.wikipedia.org/wiki/Ma_(unit)">Ma</a></strong>&nbsp;(for&nbsp;<em>megaannum</em>) means "million years ago,"&nbsp;<strong>ka</strong>&nbsp;(for&nbsp;<em>kiloannum</em>) means "thousand years ago," and&nbsp;<strong>ya</strong>&nbsp;means "years ago."</li>
+</ul>
+
+
 <div class="thumb tright">&nbsp;</div>
 <table class="wikitable">
 <tbody>
