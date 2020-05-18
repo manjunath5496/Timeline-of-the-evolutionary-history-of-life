@@ -1,11 +1,7 @@
-<h2>Timeline of the evolutionary history of life </h2>
-<h3><span id="Hadean_Eon" class="mw-headline">Hadean Eon</span></h3>
+<h2>Timeline of the evolutionary history of life</h2>
 <ul>
 <li>In this timeline,&nbsp;<strong><a class="mw-redirect" title="Ma (unit)" href="https://en.wikipedia.org/wiki/Ma_(unit)">Ma</a></strong>&nbsp;(for&nbsp;<em>megaannum</em>) means "million years ago,"&nbsp;<strong>ka</strong>&nbsp;(for&nbsp;<em>kiloannum</em>) means "thousand years ago," and&nbsp;<strong>ya</strong>&nbsp;means "years ago."</li>
 </ul>
-
-
-<div class="thumb tright">&nbsp;</div>
 <table class="wikitable">
 <tbody>
 <tr>
@@ -30,8 +26,7 @@
 </tr>
 </tbody>
 </table>
-<h3><span id="Archean_Eon" class="mw-headline">Archean Eon</span></h3>
-<div class="hatnote navigation-not-searchable">&nbsp;</div>
+<h3>&nbsp;</h3>
 <table class="wikitable">
 <tbody>
 <tr>
@@ -74,8 +69,7 @@
 </tr>
 </tbody>
 </table>
-<h3><span id="Proterozoic_Eon" class="mw-headline">Proterozoic Eon</span></h3>
-<div class="thumb tright">&nbsp;</div>
+<p>&nbsp;</p>
 <table class="wikitable">
 <tbody>
 <tr>
@@ -132,12 +126,7 @@
 </tr>
 </tbody>
 </table>
-<h3><span id="Phanerozoic_Eon" class="mw-headline">Phanerozoic Eon</span></h3>
-<div class="hatnote navigation-not-searchable">&nbsp;</div>
-<p>The&nbsp;<a title="Phanerozoic" href="https://en.wikipedia.org/wiki/Phanerozoic">Phanerozoic</a>&nbsp;Eon, literally the "period of well-displayed life," marks the appearance in the fossil record of abundant, shell-forming and/or trace-making organisms. It is subdivided into three eras, the&nbsp;<a title="Paleozoic" href="https://en.wikipedia.org/wiki/Paleozoic">Paleozoic</a>,&nbsp;<a title="Mesozoic" href="https://en.wikipedia.org/wiki/Mesozoic">Mesozoic</a>&nbsp;and&nbsp;<a title="Cenozoic" href="https://en.wikipedia.org/wiki/Cenozoic">Cenozoic</a>, which are divided by major&nbsp;<a class="mw-redirect" title="Mass extinction" href="https://en.wikipedia.org/wiki/Mass_extinction">mass extinctions</a>.</p>
-<h3><span id="Palaeozoic_Era" class="mw-headline">Palaeozoic Era</span></h3>
-<div class="hatnote navigation-not-searchable">&nbsp;</div>
-<div class="thumb tright">&nbsp;</div>
+<p><br />&nbsp;</p>
 <table class="wikitable">
 <tbody>
 <tr>
@@ -252,8 +241,7 @@
 </tr>
 </tbody>
 </table>
-<h3><span id="Mesozoic_Era" class="mw-headline">Mesozoic Era</span></h3>
-<div class="hatnote navigation-not-searchable">&nbsp;</div>
+<p>&nbsp;</p>
 <table class="wikitable">
 <tbody>
 <tr>
@@ -394,9 +382,7 @@
 </tr>
 </tbody>
 </table>
-<h3><span id="Cenozoic_Era" class="mw-headline">Cenozoic Era</span></h3>
-<div class="hatnote navigation-not-searchable">&nbsp;</div>
-<div class="thumb tright">&nbsp;</div>
+<h3>&nbsp;</h3>
 <table class="wikitable">
 <tbody>
 <tr>
@@ -617,7 +603,7 @@
 </tr>
 </tbody>
 </table>
-<h3><span id="Historical_extinctions" class="mw-headline">Historical extinctions</span></h3>
+<p>&nbsp;</p>
 <table class="wikitable">
 <tbody>
 <tr>
