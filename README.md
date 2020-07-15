@@ -250,7 +250,7 @@
 </tr>
 <tr valign="TOP">
 <td align="RIGHT" nowrap="nowrap">250 Ma</td>
-<td>The&nbsp;<a class="mw-redirect" title="Mesozoic Marine Revolution" href="https://en.wikipedia.org/wiki/Mesozoic_Marine_Revolution">Mesozoic Marine Revolution</a>&nbsp;begins: increasingly well adapted and diverse predators&nbsp;pressurize&nbsp;<a class="mw-redirect" title="Sessility (zoology)" href="https://en.wikipedia.org/wiki/Sessility_(zoology)">sessile</a>&nbsp;marine groups; the "balance of power" in the oceans shifts dramatically as some groups of prey<sup class="noprint Inline-Template">[<em><a title="Wikipedia:Manual of Style/Words to watch" href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions"><span title="The material near this tag possibly uses too-vague attribution or weasel words. (September 2015)">who?</span></a></em>]</sup>&nbsp;adapt more rapidly and effectively than others.</td>
+<td>The&nbsp;<a class="mw-redirect" title="Mesozoic Marine Revolution" href="https://en.wikipedia.org/wiki/Mesozoic_Marine_Revolution">Mesozoic Marine Revolution</a>&nbsp;begins: increasingly well adapted and diverse predators&nbsp;pressurize&nbsp;<a class="mw-redirect" title="Sessility (zoology)" href="https://en.wikipedia.org/wiki/Sessility_(zoology)">sessile</a>&nbsp;marine groups; the "balance of power" in the oceans shifts dramatically as some groups of prey&nbsp;adapt more rapidly and effectively than others.</td>
 </tr>
 <tr>
 <td>250 Ma</td>
